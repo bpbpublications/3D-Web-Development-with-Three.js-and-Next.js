@@ -1,0 +1,7 @@
+{
+    "name": "chapter-9",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "npx vite"
+    }
+}
